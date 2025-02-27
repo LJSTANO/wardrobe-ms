@@ -31,6 +31,9 @@ import { RouterLink, RouterView } from 'vue-router';
             <RouterLink to="/about" class="nav-link">About</RouterLink>
           </li>
           <li class="nav-item">
+            <RouterLink to="/clothing" class="nav-link">Clothing</RouterLink>
+          </li>
+          <li class="nav-item">
             <RouterLink to="/register" class="nav-link">Register</RouterLink>
           </li>
           <li class="nav-item">
